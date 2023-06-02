@@ -209,6 +209,8 @@ Every other event has these properties: (event, data, player)
  - qualitychange
  - camerachange
  - resize
+ - enterpictureinpicture
+ - leavepictureinpicture
 
 ## Example
 
