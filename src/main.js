@@ -128,6 +128,12 @@ export default {
     update() {
       return this.player.loadVideo(this.getOptions);
     },
+    enterpictureinpicture() {
+      return this.player.enterpictureinpicture();
+    },
+    leavepictureinpicture() {
+      return this.player.leavepictureinpicture();
+    },
     play() {
       return this.player.play();
     },
